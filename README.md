@@ -31,3 +31,6 @@ App.js
 
 
 OutPut Of Project:
+![Screenshot (285)](https://github.com/arunak7887/BMI-Project/assets/85956491/2637d568-d638-4979-915f-eb9a2354fbb9)
+
+<img src="relative/path/in/repository/to/image.svg" width="128"/>
