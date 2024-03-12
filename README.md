@@ -15,7 +15,7 @@ Set the Path  Of Project using Commend Cd
 step 3:
 App.js
 
-1) Imports:imports necessary CSS files and the required modules from React including the useState hook.
+1)Imports:imports necessary CSS files and the required modules from React including the useState hook.
 
 2)Four state variables are defined: weight, height, bmi,and message
 
